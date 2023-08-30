@@ -24,6 +24,6 @@ I am a passionate frontend developer with a few years of experience in creating 
 
 ### Let's connect!
 
-[LinkedIn](https://www.linkedin.com/in/alexerisov) | [Tekegran](https://t.me/roseveltx) | [Gist](https://gist.github.com/alexerisov)
+[LinkedIn](https://www.linkedin.com/in/alexerisov) | [Telegram](https://t.me/roseveltx) | [Gist](https://gist.github.com/alexerisov)
 
 Feel free to reach out to me if you have any questions or if you would like to collaborate on a project!
